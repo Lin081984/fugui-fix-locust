@@ -70,6 +70,41 @@ pinned: false
 
 </div>
 
+
+---
+
+## 🛠️ Tech Stack
+
+HelpDesk.AI is built with a modern, multi-layer technology stack:
+
+| Layer | Technology | Version |
+|-------|-----------|---------|
+| **Frontend** | React | 19.2 |
+| **Frontend** | Vite | 7.x |
+| **Frontend** | TailwindCSS | 3.4 |
+| **Frontend** | React Router | 7.x |
+| **Frontend** | Zustand | 5.x |
+| **Frontend** | Ant Design (antd) | 6.x |
+| **Frontend** | Recharts | 3.x |
+| **Frontend** | Framer Motion | 12.x |
+| **Frontend** | Tesseract.js (OCR) | 7.x |
+| **Mobile** | React Native + Expo | SDK 54 |
+| **Mobile** | Expo Router / Navigation | 7.x |
+| **Backend** | FastAPI | 0.104+ |
+| **Backend** | Python | 3.10 |
+| **Backend** | Uvicorn | 0.24+ |
+| **Backend** | PyTorch | 2.0+ |
+| **Backend** | HuggingFace Transformers | 4.35+ |
+| **Backend** | Sentence-Transformers | 2.2+ |
+| **Backend** | EasyOCR | latest |
+| **AI/ML** | Google Gemini (google-genai) | latest |
+| **AI/ML** | DistilBERT Classifier | custom |
+| **AI/ML** | NER Model | custom |
+| **Database** | Supabase (PostgreSQL) | 2.22 |
+| **Deployment** | Docker | python:3.10-slim |
+| **Deployment** | Vercel | production |
+| **Deployment** | HuggingFace Spaces | docker |
+
 <br/>
 
 > [!IMPORTANT]
